@@ -11,12 +11,24 @@ Ce repository contient des résumés synthétiques de mes cours à l'EPFL, organ
 ```
 .
 ├── README.md
+├── Algebre_Lineaire/
+│   ├── README.md
+│   └── Serie_5_Matrices_Elementaires_Inversibilite.md
+├── Analyse_1/
 └── Science_des_Materiaux/
     ├── README.md
     └── Cours_5.1_Elasticite_Lineaire.md
 ```
 
 ## 📋 Cours Disponibles
+
+### Algèbre Linéaire (MATH-111)
+- **[Série 5 - Matrices Élémentaires et Inversibilité](./Algebre_Lineaire/Serie_5_Matrices_Elementaires_Inversibilite.md)**
+  - Matrices élémentaires et leurs types
+  - Calcul d'inverses (formule 2×2, réduction de lignes)
+  - Détermination de l'inversibilité
+  - Transformations linéaires inverses
+  - Théorème de la Matrice Inversible
 
 ### Science des Matériaux
 - **[Cours 5.1 - Élasticité Linéaire](./Science_des_Materiaux/Cours_5.1_Elasticite_Lineaire.md)**
@@ -38,6 +50,7 @@ Chaque résumé comprend :
 - Les formules essentielles
 - Des exemples d'application
 - Des schémas explicatifs (quand pertinent)
+- Des stratégies de résolution
 
 ## 🤝 Contribution
 
