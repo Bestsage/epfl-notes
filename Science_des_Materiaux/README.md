@@ -17,6 +17,19 @@
    - Coefficient de Poisson
    - Module de cisaillement
 
+2. **[Cours 6 - Plasticité et Dureté](./Cours_6_Plasticite_Durete.md)** ⭐ NOUVEAU
+   - **Cours 6.1 :** Limite d'élasticité
+     - Mécanismes de plasticité des métaux (dislocations)
+     - 4 mécanismes de durcissement des métaux
+     - Plasticité des polymères
+   - **Cours 6.2 :** Dureté et Usure
+     - Tests de dureté (Vickers, Brinell, Mohs)
+     - Friction et coefficients
+     - Taux d'usure et coefficient d'Archard
+
+3. **[Série 05 - Corrigé](./Serie_05_Corrige.md)**
+   - Exercices corrigés sur l'élasticité
+
 ## 🎯 Programme Général du Cours
 
 ### Partie I : De l'atome à la structure des matériaux
@@ -24,8 +37,8 @@
 - Liaisons chimiques, structure des matériaux
 
 ### Partie II : Propriétés mécaniques
-- Élasticité linéaire/plasticité
-- Ductilité et dureté
+- Élasticité linéaire/plasticité ✅
+- Ductilité et dureté ✅
 - Ténacité
 - Fatigue et usure, étude de cas
 
